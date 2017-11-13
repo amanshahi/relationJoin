@@ -1,0 +1,2 @@
+To run sort join:
+=> ./sortTables.sh r.txt s.txt <main_memory>

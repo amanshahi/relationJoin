@@ -1,0 +1,3 @@
+To run hash join:
+=> g++ -std=c++11 -o hash hash_join.cpp readFiles.cpp
+=> ./hash r.cpp s.cpp <memory_size>
